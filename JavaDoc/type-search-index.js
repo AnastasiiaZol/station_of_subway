@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example","l":"Data"},{"p":"org.example","l":"Dijkstra"},{"p":"org.example","l":"Distances"},{"p":"org.example","l":"Main"},{"p":"org.example","l":"Print"}];updateSearchResults();
